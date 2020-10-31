@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/static/js/main.7a09e8da.chunk.js",
-    "main.js.map": "/static/js/main.7a09e8da.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.dec20da3.js",
-    "runtime-main.js.map": "/static/js/runtime-main.dec20da3.js.map",
-    "static/js/2.1ab07d41.chunk.js": "/static/js/2.1ab07d41.chunk.js",
-    "static/js/2.1ab07d41.chunk.js.map": "/static/js/2.1ab07d41.chunk.js.map",
-    "static/js/3.4ba0a52c.chunk.js": "/static/js/3.4ba0a52c.chunk.js",
-    "static/js/3.4ba0a52c.chunk.js.map": "/static/js/3.4ba0a52c.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.ab7136cd.chunk.css.map": "/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.1ab07d41.chunk.js.LICENSE.txt": "/static/js/2.1ab07d41.chunk.js.LICENSE.txt",
-    "static/media/logo.103b5fa1.svg": "/static/media/logo.103b5fa1.svg"
+    "main.css": "/%3Crepositoryname%3E/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/%3Crepositoryname%3E/static/js/main.7a09e8da.chunk.js",
+    "main.js.map": "/%3Crepositoryname%3E/static/js/main.7a09e8da.chunk.js.map",
+    "runtime-main.js": "/%3Crepositoryname%3E/static/js/runtime-main.d7d5e23e.js",
+    "runtime-main.js.map": "/%3Crepositoryname%3E/static/js/runtime-main.d7d5e23e.js.map",
+    "static/js/2.1ab07d41.chunk.js": "/%3Crepositoryname%3E/static/js/2.1ab07d41.chunk.js",
+    "static/js/2.1ab07d41.chunk.js.map": "/%3Crepositoryname%3E/static/js/2.1ab07d41.chunk.js.map",
+    "static/js/3.4ba0a52c.chunk.js": "/%3Crepositoryname%3E/static/js/3.4ba0a52c.chunk.js",
+    "static/js/3.4ba0a52c.chunk.js.map": "/%3Crepositoryname%3E/static/js/3.4ba0a52c.chunk.js.map",
+    "index.html": "/%3Crepositoryname%3E/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/%3Crepositoryname%3E/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.1ab07d41.chunk.js.LICENSE.txt": "/%3Crepositoryname%3E/static/js/2.1ab07d41.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/%3Crepositoryname%3E/static/media/logo.103b5fa1.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.dec20da3.js",
+    "static/js/runtime-main.d7d5e23e.js",
     "static/js/2.1ab07d41.chunk.js",
     "static/css/main.ab7136cd.chunk.css",
     "static/js/main.7a09e8da.chunk.js"
